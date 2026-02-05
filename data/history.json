@@ -1,0 +1,17 @@
+{
+  "convictions": [
+    {
+      "timestamp": "2026-02-05T01:56:22Z",
+      "question": "Will JD Vance win the 2028 US Presidential Election?",
+      "market_slug": "will-jd-vance-win-the-2028-us-presidential-election",
+      "market_odds": 0.255,
+      "my_estimate": 0.30,
+      "edge": 0.045,
+      "direction": "YES",
+      "confidence": "medium",
+      "status": "published",
+      "resolved": null,
+      "outcome": null
+    }
+  ]
+}

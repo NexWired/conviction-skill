@@ -1,0 +1,40 @@
+{
+  "input": "Will JD Vance win the 2028 US Presidential Election?",
+  "market": {
+    "source": "polymarket",
+    "slug": "will-jd-vance-win-the-2028-us-presidential-election",
+    "question": "Will JD Vance win the 2028 US Presidential Election?",
+    "description": "The 2028 US Presidential Election is scheduled to take place on November 7, 2028. This market will resolve to the person who wins the 2028 US Presidential Election.",
+    "current_odds": 0.255,
+    "volume_usd": 5911312,
+    "end_date": "2028-11-07T00:00:00Z"
+  },
+  "conviction": {
+    "estimate": 0.30,
+    "confidence": "medium",
+    "edge": 0.045,
+    "direction": "YES",
+    "recommendation": "SMALL BUY YES (4.5% edge, medium confidence)"
+  },
+  "thesis": "The market underestimates the power of incumbency and party continuity. VPs who run for president after a two-term administration have historically performed well when the economy is stable. Vance's youth, populist appeal, and established national profile give him structural advantages. The Democratic field is fragmented with no clear frontrunner. However, 2028 is far out and significant uncertainty remains, hence medium confidence.",
+  "key_factors": [
+    {"factor": "Incumbency advantage as sitting VP", "impact": "bullish", "weight": "high"},
+    {"factor": "Fragmented Democratic primary field", "impact": "bullish", "weight": "medium"},
+    {"factor": "Populist messaging resonates in current climate", "impact": "bullish", "weight": "medium"},
+    {"factor": "Long time horizon increases uncertainty", "impact": "bearish", "weight": "high"},
+    {"factor": "Potential Trump fatigue extends to associates", "impact": "bearish", "weight": "medium"}
+  ],
+  "risks": [
+    "Economic downturn blamed on Republican administration",
+    "Strong Democratic candidate emerges",
+    "Scandal or major policy failure",
+    "Republican primary challenge from DeSantis/Rubio wing",
+    "Significant geopolitical events reshape race"
+  ],
+  "timestamp": "2026-02-05T02:00:00Z",
+  "_meta": {
+    "skill": "conviction",
+    "version": "0.1.0",
+    "status": "complete"
+  }
+}
