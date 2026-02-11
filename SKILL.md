@@ -36,6 +36,12 @@ scripts/form.sh "Will JD Vance win 2028?"
 # List trending Polymarket markets
 scripts/markets.sh --trending
 
+# Scan for opportunity markets
+scripts/opportunities.sh
+
+# Quick edge calculation
+scripts/edge.sh 0.35 0.42  # market: 35%, you: 42% → +7% edge
+
 # Track your conviction accuracy over time
 scripts/track.sh --stats
 ```
